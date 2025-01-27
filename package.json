@@ -1,0 +1,11 @@
+{
+  "name": "ftests",
+  "version": "1.0.0",
+  "description": "testing git and TDD",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "as",
+  "license": "ISC"
+}
